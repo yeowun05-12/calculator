@@ -71,6 +71,7 @@ body {
   flex-direction: column;
   align-items: end;
   padding: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px inset;
 }
 
 .dis_log {
@@ -112,7 +113,7 @@ body {
   height: 510px;
   background-color: #6885bb;
   border-radius: 10px;
-  box-shadow: rgba(74, 100, 127, 0.35) 0px -2px 6px 0px inset;
+  box-shadow: rgba(74, 100, 127, 1) 0px -2px 6px 0px inset;
 }
 
 .btn_group {
@@ -149,9 +150,11 @@ body {
 }
 .grop4 {
   background-color: #ddeafe;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 .grop5 {
   background-color: #b3ccfa;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .button:hover {
